@@ -1,4 +1,4 @@
-# Sending_Algorand_Transaction_in_Rust
+# Build your transaction, sign, and send it to the Algorand network in Rust!
 
 Here in this article I will teach you how to make, sign, and broadcase a transaction to the Algorand network in Rust!
 
